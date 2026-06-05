@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ListaComida_2025_2</string>
+    <string name="desayuno">Desayuno</string>
+    <string name="hamburgesa">Hamburguesa BBQ</string>
+    <string name="pizza">Pizza Peperoni</string>
+    <string name="postre">Pay de fresa</string>
+    <string name="pozole">Pozole</string>
+    <string name="tacos">Tacos</string>
+
+    <string name="desayuno_precio">MX $80.00</string>
+    <string name="hamburgesa_precio">MX $50.00</string>
+    <string name="pizza_precio">MX $80.00</string>
+    <string name="postre_precio">MX $40.00</string>
+    <string name="pozole_precio">MX $60.00</string>
+    <string name="tacos_precio">MX $23.00</string>
+
+    <string name="desayuno_oferta">Ahorra hasta el 15%</string>
+    <string name="hamburgesa_oferta">Ahorra hasta el 10%</string>
+    <string name="pizza_oferta">Ahorra hasta el 17%</string>
+    <string name="postre_oferta">Ahorra hasta el 10%</string>
+    <string name="pozole_oferta">Ahorra hasta el 20%</string>
+    <string name="tacos_oferta">Ahorra hasta el 25%</string>
+</resources>
